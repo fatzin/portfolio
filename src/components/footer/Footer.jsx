@@ -19,7 +19,7 @@ function Footer() {
                     <a href="https://www.instagram.com/lipegm1/" className="footer__social-link" target="_blank" rel="noreferrer">
                         <i class="bx bxl-instagram"></i>
                     </a>
-                    <a href="github.com/fatzin" className="footer__social-link" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/fatzin" className="footer__social-link" target="_blank" rel="noreferrer">
                         <i class="bx bxl-github"></i>
                     </a>
                 </div>
