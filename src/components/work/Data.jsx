@@ -10,6 +10,7 @@ export const projectsData = [
       title: "Pesquisar filmes",
       category: "web",
       link: 'https://fatzin-movie-app.netlify.app',
+      github: 'https://github.com/fatzin/movies_lib',
     },
     {
       id: 2,
@@ -17,6 +18,7 @@ export const projectsData = [
       title: "Aplicativo de Notas",
       category: "app",
       link: 'https://fatzin-notes-app.netlify.app',
+      github: 'https://github.com/fatzin/notes-app',
     },
     {
       id: 3,
@@ -24,6 +26,7 @@ export const projectsData = [
       title: "MW Informática",
       category: "web",
       link: 'https://mwinformatica.netlify.app',
+      github: '',
     },
     {
       id: 4,
